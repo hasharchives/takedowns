@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository catalogs requests to remove content that HASH has received under its [Government Takedown](https://hash.ai/legal/trust-safety/government-takedown) and [Copyrighted Materials](https://hash.ai/legal/ip/copyright) policies. Our decision to create this repository was inspired by the takedown publication approach of Lumen (formerly Chilling Effects), Google, and GitHub. Within this repository you'll find the text of Government Takedown Notices, DMCA takedown notices and DMCA counter-notices we've received here at HASH in relation to [HASH](https://hash.ai/) and the [Block Protocol Hub](https://blockprotocol.org/hub). We publish these as they are received, with only personally identifiable information redacted.
+This repository catalogs requests to remove content that HASH has received under its [Government Takedown](https://hash.ai/legal/trust-safety/government-takedown), [Trademark Complaints](https://hash.ai/legal/ip/trademarks) and [Copyrighted Materials](https://hash.ai/legal/ip/copyright) policies. Our decision to create this repository was inspired by the takedown publication approach of Lumen (formerly Chilling Effects), Google, and GitHub. Within this repository you'll find the text of Government Takedown Notices, DMCA takedown notices and DMCA counter-notices we've received here at HASH in relation to [HASH](https://hash.ai/) and the [Block Protocol Hub](https://blockprotocol.org/hub). We publish these as they are received, with only personally identifiable information redacted.
 
 ## Government Takedown Notices
 
@@ -22,7 +22,21 @@ It means that we received the notice on the indicated date. It does *not* mean t
 
 You can learn more by reading our [Government Takedown Policy](https://hash.ai/legal/trust-safety/government-takedown) on the HASH website.
 
-## DMCA Notices
+## Trademark Takedown Notices
+
+### Why do we post trademark notices?
+
+HASH's Trademark Complaints Policy is designed to protect organizations' names, logos and other trademark-protected materials from being used in a manner that may mislead or confuse others with regard to its brand or business affiliation. Using company names, logos or other trademark-protected material to which you do not have appropriate rights may be considered a violation of this policy. By posting sharing notices of claims here, we hope to simultaneously discourage and shame those filing spurious claims, while making users aware of potential trademark misappropriation on our platform.
+
+### What does it mean if a trademark notice is posted here?
+
+It only means that we received the notice on the indicated date. It does not mean that the trademark was in fact infringed. Nor does it mean that the user identified in the notice has done anything wrong. We don't make or imply any judgment about the merit of the claims made in a trademark notice, and we post these notices and requests for informational purposes only.
+
+### Learn more
+
+You can learn more by reading our [Trademark Complaints Policy](https://hash.ai/legal/ip/trademarks) on the HASH website.
+
+## Copyrighted Materials Takedown Notices
 
 ### Why do we post copyright notices?
 
