@@ -4,6 +4,8 @@
 
 This repository catalogs requests to remove content that HASH has received under its [Government Takedown](https://hash.ai/legal/trust-safety/government-takedown), [Trademark Complaints](https://hash.ai/legal/ip/trademarks) and [Copyrighted Materials](https://hash.ai/legal/ip/copyright) policies. Our decision to create this repository was inspired by the takedown publication approach of Lumen (formerly Chilling Effects), Google, and GitHub. Within this repository you'll find the text of Government Takedown Notices, DMCA takedown notices and DMCA counter-notices we've received here at HASH in relation to [HASH](https://hash.ai/) and the [Block Protocol Hub](https://blockprotocol.org/hub). We publish these as they are received, with only personally identifiable information redacted.
 
+This repository does not catalog requests we receive to remove [private information](https://hash.ai/legal/privacy/private-information) and other [sensitive data](https://hash.ai/legal/privacy/sensitive-data).
+
 ## Government Takedown Notices
 
 ### What are government takedown notices?
